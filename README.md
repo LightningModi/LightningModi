@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/AdoredFriendlyAfricanhornbill-size_restricted.gif)]
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif?20180717110226)]
 <h1 align="center">Hello there,I am Ansh Modi</h1>
 <h3 align="center">An amateur programmer</h3>
 <img alingn="right" alt="coding" width="400" src ="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
