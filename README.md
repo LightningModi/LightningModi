@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/215/215993.gif)]
+![MasterHead](https://giffiles.alphacoders.com/215/215993.gif)
 <h1 align="center">Hello there,I am Ansh Modi</h1>
 <h3 align="center">An amateur programmer</h3>
 <p align="center">
