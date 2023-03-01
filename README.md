@@ -1,7 +1,9 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif?20180717110226)]
+[![MasterHead](https://giffiles.alphacoders.com/215/215993.gif)]
 <h1 align="center">Hello there,I am Ansh Modi</h1>
 <h3 align="center">An amateur programmer</h3>
+<p align="center">
 <img alingn="right" alt="coding" width="400" src ="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightningmodi&label=Profile%20views&color=0e75b6&style=flat" alt="lightningmodi" /> </p>
 
